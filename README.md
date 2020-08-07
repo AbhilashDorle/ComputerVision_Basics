@@ -1,6 +1,6 @@
 # ComputerVision_Basics
 
-I performed some basic vision concepts on images. The functions are as follows:
+I performed some basic vision concepts on images. The details are as follows:
 
 1. Basic: Looks at the position of centroids, eccentricities among many functionalities
 
